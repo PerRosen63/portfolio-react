@@ -1,0 +1,21 @@
+{
+  "content": "\n<p>Mitt namn är Per.</p>\n",
+  "featuredImage": {
+    "node": {
+      "sourceUrl": "http://portfolio.local/wp-content/uploads/Per_bw.jpg",
+      "altText": "Per",
+      "mediaDetails": {
+        "width": 576,
+        "height": 576,
+        "sizes": [
+          {
+            "name": "thumbnail",
+            "sourceUrl": "http://portfolio.local/wp-content/uploads/Per_bw-250x250.jpg",
+            "width": "250",
+            "height": "250"
+          }
+        ]
+      }
+    }
+  }
+}

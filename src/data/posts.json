@@ -1,0 +1,809 @@
+[
+  {
+    "id": "cG9zdDoxMjc=",
+    "databaseId": 127,
+    "title": "Vindkraftskurs – Campus Gotland",
+    "slug": "vindkraftskurs-campus-gotland",
+    "content": "\n<p><a href=\"https://vindkraftskurs.se/\">https://vindkraftskurs.se/</a> &#8211; i samarbete med Uppsala Universitet/Campus Gotland</p>\n",
+    "years": {
+      "startYear": null,
+      "endYear": null
+    },
+    "occupation": {
+      "occupation": null
+    },
+    "featuredImage": {
+      "node": {
+        "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_vind.jpg",
+        "altText": "",
+        "mediaDetails": {
+          "width": 1067,
+          "height": 767,
+          "sizes": [
+            {
+              "name": "medium",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_vind-600x431.jpg",
+              "width": "600",
+              "height": "431"
+            },
+            {
+              "name": "thumbnail",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_vind-250x250.jpg",
+              "width": "250",
+              "height": "250"
+            },
+            {
+              "name": "medium_large",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_vind-768x552.jpg",
+              "width": "768",
+              "height": "552"
+            }
+          ]
+        }
+      }
+    },
+    "categories": {
+      "nodes": [
+        {
+          "name": "Portfolio webb",
+          "slug": "portfolio-webb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDoxMjQ=",
+    "databaseId": 124,
+    "title": "Ulrika Ahlsten keramik",
+    "slug": "ulrika-ahlsten-keramik",
+    "content": "\n<p><a href=\"https://ulrikaahlstenkeramik.se/\">https://ulrikaahlstenkeramik.se/</a> &#8211; företagssida, min egen design</p>\n",
+    "years": {
+      "startYear": null,
+      "endYear": null
+    },
+    "occupation": {
+      "occupation": null
+    },
+    "featuredImage": {
+      "node": {
+        "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_ua.jpg",
+        "altText": "",
+        "mediaDetails": {
+          "width": 1066,
+          "height": 768,
+          "sizes": [
+            {
+              "name": "medium",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_ua-600x432.jpg",
+              "width": "600",
+              "height": "432"
+            },
+            {
+              "name": "thumbnail",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_ua-250x250.jpg",
+              "width": "250",
+              "height": "250"
+            },
+            {
+              "name": "medium_large",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_ua-768x553.jpg",
+              "width": "768",
+              "height": "553"
+            }
+          ]
+        }
+      }
+    },
+    "categories": {
+      "nodes": [
+        {
+          "name": "Portfolio webb",
+          "slug": "portfolio-webb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDoxMjE=",
+    "databaseId": 121,
+    "title": "Trygga eljobb – Elektrikerförbundet",
+    "slug": "trygga-eljobb-elektrikerforbundet",
+    "content": "\n<p><a href=\"https://tryggaeljobb.se/\">https://tryggaeljobb.se/ </a> Kampanjsida i samarbete med Kim Ingesson Grafisk design AB</p>\n\n\n\n<p></p>\n",
+    "years": {
+      "startYear": null,
+      "endYear": null
+    },
+    "occupation": {
+      "occupation": null
+    },
+    "featuredImage": {
+      "node": {
+        "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_te.jpg",
+        "altText": "",
+        "mediaDetails": {
+          "width": 1067,
+          "height": 769,
+          "sizes": [
+            {
+              "name": "medium",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_te-600x432.jpg",
+              "width": "600",
+              "height": "432"
+            },
+            {
+              "name": "thumbnail",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_te-250x250.jpg",
+              "width": "250",
+              "height": "250"
+            },
+            {
+              "name": "medium_large",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_te-768x554.jpg",
+              "width": "768",
+              "height": "554"
+            }
+          ]
+        }
+      }
+    },
+    "categories": {
+      "nodes": [
+        {
+          "name": "Portfolio webb",
+          "slug": "portfolio-webb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDoxMTg=",
+    "databaseId": 118,
+    "title": "Lindas keramik",
+    "slug": "lindas-keramik",
+    "content": "\n<p><a href=\"https://lindaskeramik.se/\">https://lindaskeramik.se/</a> Webbshop i samarbete med Lojs Kommunikation</p>\n",
+    "years": {
+      "startYear": null,
+      "endYear": null
+    },
+    "occupation": {
+      "occupation": null
+    },
+    "featuredImage": {
+      "node": {
+        "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_lk.jpg",
+        "altText": "",
+        "mediaDetails": {
+          "width": 1067,
+          "height": 769,
+          "sizes": [
+            {
+              "name": "medium",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_lk-600x432.jpg",
+              "width": "600",
+              "height": "432"
+            },
+            {
+              "name": "thumbnail",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_lk-250x250.jpg",
+              "width": "250",
+              "height": "250"
+            },
+            {
+              "name": "medium_large",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_lk-768x554.jpg",
+              "width": "768",
+              "height": "554"
+            }
+          ]
+        }
+      }
+    },
+    "categories": {
+      "nodes": [
+        {
+          "name": "Portfolio webb",
+          "slug": "portfolio-webb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDoxMTU=",
+    "databaseId": 115,
+    "title": "Kulturutbud unga – Blekinge kommun",
+    "slug": "kulturutbud-unga-blekinge-kommun",
+    "content": "\n<p>Webbplats i samarbete med Klasified Kommunikation</p>\n",
+    "years": {
+      "startYear": null,
+      "endYear": null
+    },
+    "occupation": {
+      "occupation": null
+    },
+    "featuredImage": {
+      "node": {
+        "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_kulturutb.jpg",
+        "altText": "",
+        "mediaDetails": {
+          "width": 1066,
+          "height": 768,
+          "sizes": [
+            {
+              "name": "medium",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_kulturutb-600x432.jpg",
+              "width": "600",
+              "height": "432"
+            },
+            {
+              "name": "thumbnail",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_kulturutb-250x250.jpg",
+              "width": "250",
+              "height": "250"
+            },
+            {
+              "name": "medium_large",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_kulturutb-768x553.jpg",
+              "width": "768",
+              "height": "553"
+            }
+          ]
+        }
+      }
+    },
+    "categories": {
+      "nodes": [
+        {
+          "name": "Portfolio webb",
+          "slug": "portfolio-webb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDoxMTE=",
+    "databaseId": 111,
+    "title": "I Heat You – webbshop",
+    "slug": "i-heat-you-webbshop",
+    "content": "\n<p><a href=\"https://iheatyou.se/\">https://iheatyou.se/</a> &#8211; webbshop i samarbete med Kim Ingesson Grafisk design AB</p>\n",
+    "years": {
+      "startYear": null,
+      "endYear": null
+    },
+    "occupation": {
+      "occupation": null
+    },
+    "featuredImage": {
+      "node": {
+        "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_heat-1.jpg",
+        "altText": "",
+        "mediaDetails": {
+          "width": 1068,
+          "height": 767,
+          "sizes": [
+            {
+              "name": "medium",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_heat-1-600x431.jpg",
+              "width": "600",
+              "height": "431"
+            },
+            {
+              "name": "thumbnail",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_heat-1-250x250.jpg",
+              "width": "250",
+              "height": "250"
+            },
+            {
+              "name": "medium_large",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_heat-1-768x552.jpg",
+              "width": "768",
+              "height": "552"
+            }
+          ]
+        }
+      }
+    },
+    "categories": {
+      "nodes": [
+        {
+          "name": "Portfolio webb",
+          "slug": "portfolio-webb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDoxMDc=",
+    "databaseId": 107,
+    "title": "Albatrossmuseet – Gotland",
+    "slug": "albatrossmuseet-gotland",
+    "content": "\n<p><a href=\"https://www.albatrossmuseet.se/\">https://www.albatrossmuseet.se/</a> &#8211; presentation av museet och föreningen, min egen design</p>\n",
+    "years": {
+      "startYear": null,
+      "endYear": null
+    },
+    "occupation": {
+      "occupation": null
+    },
+    "featuredImage": {
+      "node": {
+        "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_albatross.jpg",
+        "altText": "",
+        "mediaDetails": {
+          "width": 1069,
+          "height": 768,
+          "sizes": [
+            {
+              "name": "medium",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_albatross-600x431.jpg",
+              "width": "600",
+              "height": "431"
+            },
+            {
+              "name": "thumbnail",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_albatross-250x250.jpg",
+              "width": "250",
+              "height": "250"
+            },
+            {
+              "name": "medium_large",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_albatross-768x552.jpg",
+              "width": "768",
+              "height": "552"
+            }
+          ]
+        }
+      }
+    },
+    "categories": {
+      "nodes": [
+        {
+          "name": "Portfolio webb",
+          "slug": "portfolio-webb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDoxMDQ=",
+    "databaseId": 104,
+    "title": "Gotlands Museum",
+    "slug": "gotlands-museum-2",
+    "content": "\n<p><a href=\"https://gotlandsmuseum.se/\">https://gotlandsmuseum.se/</a> &#8211; i samarbete med Gotlands Museum</p>\n",
+    "years": {
+      "startYear": null,
+      "endYear": null
+    },
+    "occupation": {
+      "occupation": null
+    },
+    "featuredImage": {
+      "node": {
+        "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_gm.jpg",
+        "altText": "Gotlands museum screenshot",
+        "mediaDetails": {
+          "width": 1066,
+          "height": 771,
+          "sizes": [
+            {
+              "name": "medium",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_gm-600x434.jpg",
+              "width": "600",
+              "height": "434"
+            },
+            {
+              "name": "thumbnail",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_gm-250x250.jpg",
+              "width": "250",
+              "height": "250"
+            },
+            {
+              "name": "medium_large",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/Portfolio_gm-768x555.jpg",
+              "width": "768",
+              "height": "555"
+            }
+          ]
+        }
+      }
+    },
+    "categories": {
+      "nodes": [
+        {
+          "name": "Portfolio webb",
+          "slug": "portfolio-webb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDoxMDI=",
+    "databaseId": 102,
+    "title": "Nynäshamns Gymnasium",
+    "slug": "nynashamns-gymnasium",
+    "content": null,
+    "years": {
+      "startYear": 1979,
+      "endYear": 1982
+    },
+    "occupation": {
+      "occupation": "Samhällsvetenskaplig linje, 3 år"
+    },
+    "featuredImage": null,
+    "categories": {
+      "nodes": [
+        {
+          "name": "Utbildning",
+          "slug": "utbildning"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDoxMDA=",
+    "databaseId": 100,
+    "title": "Nordens Folkhögskola Biskops Arnö",
+    "slug": "nordens-folkhogskola-biskops-arno",
+    "content": "\n<p>Allmän kurs (kulturinriktning), 1-årig, avgångsår 1984</p>\n",
+    "years": {
+      "startYear": 1983,
+      "endYear": 1984
+    },
+    "occupation": {
+      "occupation": "Allmän kurs (kulturinriktning)"
+    },
+    "featuredImage": null,
+    "categories": {
+      "nodes": [
+        {
+          "name": "Utbildning",
+          "slug": "utbildning"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDo5OA==",
+    "databaseId": 98,
+    "title": "Stockholms Universitet",
+    "slug": "stockholms-universitet",
+    "content": null,
+    "years": {
+      "startYear": 1989,
+      "endYear": null
+    },
+    "occupation": {
+      "occupation": "Kulturvetarlinjen"
+    },
+    "featuredImage": null,
+    "categories": {
+      "nodes": [
+        {
+          "name": "Utbildning",
+          "slug": "utbildning"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDo5Ng==",
+    "databaseId": 96,
+    "title": "Komvux i Visby",
+    "slug": "komvux-i-visby",
+    "content": "\n<p>VT-02, delkurser:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Webbdesign HTML och CSS</li>\n\n\n\n<li>Programmering A&amp;B</li>\n\n\n\n<li>Grafisk kommunikation</li>\n\n\n\n<li>Multimedia</li>\n</ul>\n\n\n\n<p></p>\n",
+    "years": {
+      "startYear": 2002,
+      "endYear": 2002
+    },
+    "occupation": {
+      "occupation": "Mediautbildningen"
+    },
+    "featuredImage": null,
+    "categories": {
+      "nodes": [
+        {
+          "name": "Utbildning",
+          "slug": "utbildning"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDo5NA==",
+    "databaseId": 94,
+    "title": "Högskolan på Gotland",
+    "slug": "hogskolan-pa-gotland",
+    "content": "\n<p><strong>Gestaltning och produktion i konvergerande medier (poäng enligt tidigare system), 120 poäng, Högskolan på Gotland, examen VT-05.</strong></p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Gestaltningskomponenter</strong> 40p (berättande genom musik, bild, scen, text, film, interaktivitet, experiment)</li>\n\n\n\n<li><strong>Att skriva för film</strong> 80p</li>\n</ul>\n\n\n\n<p>(+ div 5p-kurser, bl.a. regiövning, musik i film, dokumentärt berättande.)</p>\n\n\n\n<p></p>\n",
+    "years": {
+      "startYear": 2002,
+      "endYear": 2005
+    },
+    "occupation": {
+      "occupation": "Gestaltning och produktion i konvergerande medier"
+    },
+    "featuredImage": null,
+    "categories": {
+      "nodes": [
+        {
+          "name": "Utbildning",
+          "slug": "utbildning"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDo5MA==",
+    "databaseId": 90,
+    "title": "Åsö Vux – Yrkeshögskola",
+    "slug": "aso-vux-yrkeshogskola",
+    "content": "\n<p>200 yrkeshögskolepoäng (HTML5, CSS, JavaScript, responsiv webb, CMS/WordPress)</p>\n",
+    "years": {
+      "startYear": 2014,
+      "endYear": 2015
+    },
+    "occupation": {
+      "occupation": "Webbutveckling"
+    },
+    "featuredImage": null,
+    "categories": {
+      "nodes": [
+        {
+          "name": "Utbildning",
+          "slug": "utbildning"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDo4NA==",
+    "databaseId": 84,
+    "title": "Medieinstitutet – Yrkeshögskola",
+    "slug": "medieinstitutet",
+    "content": "\n<ul class=\"wp-block-list\">\n<li>JavaScript (Vanilla, TypeScript, Vue, React)</li>\n\n\n\n<li>API:er (Node, Express, SQL, MongoDB)</li>\n\n\n\n<li>Agila arbetssätt</li>\n\n\n\n<li>Arbetsmetodik/Git/GitHub</li>\n\n\n\n<li>Testning</li>\n\n\n\n<li>UX</li>\n\n\n\n<li>Grafiska verktyg (Figma etc)</li>\n</ul>\n",
+    "years": {
+      "startYear": 2024,
+      "endYear": 2025
+    },
+    "occupation": {
+      "occupation": "Front End Developer - distans/flex/påbyggnad"
+    },
+    "featuredImage": null,
+    "categories": {
+      "nodes": [
+        {
+          "name": "Utbildning",
+          "slug": "utbildning"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDo4Mg==",
+    "databaseId": 82,
+    "title": "Almedalsbiblioteket",
+    "slug": "almedalsbiblioteket",
+    "content": "\n<p>Diverse, bl a webbredaktör.</p>\n",
+    "years": {
+      "startYear": 2009,
+      "endYear": 2012
+    },
+    "occupation": {
+      "occupation": "Biblioteksassistent"
+    },
+    "featuredImage": null,
+    "categories": {
+      "nodes": [
+        {
+          "name": "Arbetslivserfarenhet",
+          "slug": "arbetslivserfarenhet"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDo4MA==",
+    "databaseId": 80,
+    "title": "Filmare",
+    "slug": "filmare",
+    "content": "\n<p>Arbete med egen dokumentärfilm samt visning av den på Göteborg Film Festival.</p>\n",
+    "years": {
+      "startYear": 2006,
+      "endYear": 2006
+    },
+    "occupation": {
+      "occupation": "Filmare"
+    },
+    "featuredImage": null,
+    "categories": {
+      "nodes": [
+        {
+          "name": "Arbetslivserfarenhet",
+          "slug": "arbetslivserfarenhet"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDo3OA==",
+    "databaseId": 78,
+    "title": "Ericsson",
+    "slug": "ericsson",
+    "content": "\n<p><strong>Ericssons Nynäshamns-fabrik (före 1993 Teli Telecom).</strong> Tillverkning av AXE-växlar, fr.o.m. 1995 radiobasstationer för mobiltelefoni.</p>\n\n\n\n<p><strong>2000-2002 Processtöd.</strong> Med ansvar för system för uppföljning av bl.a. kvalitet. Utbildare i dessa system. Ledare för olika förbättringsgrupper.</p>\n\n\n\n<p><strong>1995-2000 Gruppchef i tillverkningslinor.</strong> Personalansvar för grupper av olika storlek. Leveransansvar.</p>\n\n\n\n<p><strong>1990-1995 Programmerare/beredare av styrfiler för monteringsmaskiner. </strong>”Spindeln i nätet” vid framtagning och sjösättning av nytt beredningssystem.</p>\n\n\n\n<p><strong>1986-1990 Operatör automatmontering.</strong> Automatisk kretskortsmontering, hål- och ytmontering.</p>\n\n\n\n<p><strong>1985-1986 Verkstadsmontör handmontering</strong> av kretskort.</p>\n",
+    "years": {
+      "startYear": 1985,
+      "endYear": 2002
+    },
+    "occupation": {
+      "occupation": null
+    },
+    "featuredImage": null,
+    "categories": {
+      "nodes": [
+        {
+          "name": "Arbetslivserfarenhet",
+          "slug": "arbetslivserfarenhet"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDo3Ng==",
+    "databaseId": 76,
+    "title": "Annelies skafferi",
+    "slug": "annelies-skafferi",
+    "content": "\n<p>Delägare i företaget ”Annelies skafferi”, delikatessbutik, försäljning över disk.</p>\n",
+    "years": {
+      "startYear": 2009,
+      "endYear": 2013
+    },
+    "occupation": {
+      "occupation": "Butiksansvarig"
+    },
+    "featuredImage": null,
+    "categories": {
+      "nodes": [
+        {
+          "name": "Arbetslivserfarenhet",
+          "slug": "arbetslivserfarenhet"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDo3NA==",
+    "databaseId": 74,
+    "title": "E-handelslösningar",
+    "slug": "e-handelslosningar",
+    "content": "\n<p>LIA-praktik 10v, företaget E-handelslösningar, Södermalm</p>\n",
+    "years": {
+      "startYear": 2015,
+      "endYear": 2015
+    },
+    "occupation": {
+      "occupation": "studerande"
+    },
+    "featuredImage": null,
+    "categories": {
+      "nodes": [
+        {
+          "name": "Arbetslivserfarenhet",
+          "slug": "arbetslivserfarenhet"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDo3Mg==",
+    "databaseId": 72,
+    "title": "Klasified Kommunikation",
+    "slug": "klasified-kommunikation",
+    "content": "\n<p>Behovs-/timanställd för konsultation och hjälp med bygge av webbsidor i WordPress.</p>\n",
+    "years": {
+      "startYear": 2020,
+      "endYear": null
+    },
+    "occupation": {
+      "occupation": "Webbutvecklare"
+    },
+    "featuredImage": null,
+    "categories": {
+      "nodes": [
+        {
+          "name": "Arbetslivserfarenhet",
+          "slug": "arbetslivserfarenhet"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDo3MA==",
+    "databaseId": 70,
+    "title": "Visby Web",
+    "slug": "visby-web-2",
+    "content": "\n<p>Behovs-/timanställd för hjälp med bygge av webbsidor i WordPress.</p>\n",
+    "years": {
+      "startYear": 2020,
+      "endYear": null
+    },
+    "occupation": {
+      "occupation": "Webbutvecklare"
+    },
+    "featuredImage": null,
+    "categories": {
+      "nodes": [
+        {
+          "name": "Arbetslivserfarenhet",
+          "slug": "arbetslivserfarenhet"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDo2OA==",
+    "databaseId": 68,
+    "title": "Gotlands Museum",
+    "slug": "gotlands-museum",
+    "content": "\n<p>Anställd för bygge av &#8220;skelett&#8221; till museets nya webbplats.</p>\n",
+    "years": {
+      "startYear": 2020,
+      "endYear": 2020
+    },
+    "occupation": {
+      "occupation": "Webbutvecklare"
+    },
+    "featuredImage": null,
+    "categories": {
+      "nodes": [
+        {
+          "name": "Arbetslivserfarenhet",
+          "slug": "arbetslivserfarenhet"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDo2NQ==",
+    "databaseId": 65,
+    "title": "Databyrån i Visby AB",
+    "slug": "databyran-i-visby-ab",
+    "content": "\n<p>Som anställd i företaget ansvarig för att bygga webbplatser i publiceringssystemet WordPress åt externa kunder.</p>\n",
+    "years": {
+      "startYear": 2022,
+      "endYear": 2022
+    },
+    "occupation": {
+      "occupation": "Webbutvecklare"
+    },
+    "featuredImage": null,
+    "categories": {
+      "nodes": [
+        {
+          "name": "Arbetslivserfarenhet",
+          "slug": "arbetslivserfarenhet"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cG9zdDo2Mg==",
+    "databaseId": 62,
+    "title": "Visby Web",
+    "slug": "visby-web",
+    "content": "\n<p>Som anställd i företaget ansvarig för att bygga webbplatser i publiceringssystemet WordPress åt externa kunder.</p>\n",
+    "years": {
+      "startYear": 2015,
+      "endYear": 2019
+    },
+    "occupation": {
+      "occupation": "Webbutvecklare"
+    },
+    "featuredImage": null,
+    "categories": {
+      "nodes": [
+        {
+          "name": "Arbetslivserfarenhet",
+          "slug": "arbetslivserfarenhet"
+        }
+      ]
+    }
+  }
+]
