@@ -38,10 +38,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Build
-        run: |
-          # Set BASE_PATH environment variable for the build command
-          export BASE_PATH=/portfolio-react/ 
-          npm run build
+        run: npm run build
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
