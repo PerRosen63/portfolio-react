@@ -1,8 +1,9 @@
 import parse from "html-react-parser";
 import page from "../data/page.json";
 import { Page } from "../types/Page";
+import { FC } from "react";
 
-export const Profile = () => {
+export const Profile: FC = () => {
   const pageData: Page = page;
   if (!pageData.featuredImage) {
     return <p>No image found.</p>;
@@ -18,7 +19,7 @@ export const Profile = () => {
   const imageHeight = mediumSize?.height || image.mediaDetails.height;
 
   const imageName = imageUrl.split("/").pop();
-  const imagePath = `src/images/${imageName}`;
+  const imagePath = new URL(`/src/images/${imageName}`, import.meta.url).href;
 
   return (
     <>
