@@ -1,4 +1,4 @@
-import "./App.css";
+// import "./App.css";
 import { CasesList } from "./components/CasesList";
 import JobsList from "./components/JobsList";
 import { Profile } from "./components/Profile";
