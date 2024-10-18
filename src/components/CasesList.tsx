@@ -33,7 +33,7 @@ export const CasesList: FC = () => {
 
           return (
             <li key={post.id}>
-              <h3>{post.title}</h3>
+              <h3 className="text-3xl font-bold">{post.title}</h3>
               {post.featuredImage && (
                 <img
                   src={imagePath}
