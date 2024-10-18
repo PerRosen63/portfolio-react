@@ -1,8 +1,9 @@
+import { FC } from "react";
 import parse from "html-react-parser";
 import posts from "../data/posts.json";
 import { Post } from "../types/Post";
 
-export const CasesList = () => {
+export const CasesList: FC = () => {
   const postsData: Post[] = posts;
 
   const filteredPosts = postsData.filter((post) => {
@@ -27,7 +28,8 @@ export const CasesList = () => {
             mediumSize?.height || post.featuredImage?.node.mediaDetails.height;
 
           const imageName = imageUrl?.split("/").pop();
-          const imagePath = `src/images/${imageName}`;
+          const imagePath = new URL(`/src/images/${imageName}`, import.meta.url)
+            .href;
 
           return (
             <li key={post.id}>
