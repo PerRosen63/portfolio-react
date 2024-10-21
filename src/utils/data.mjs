@@ -54,6 +54,7 @@ export async function getPage() {
   const query = gql`
     query GetPage {
       page(id: "14", idType: DATABASE_ID) {
+        title
         content
         featuredImage {
           node {

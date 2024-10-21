@@ -1,5 +1,6 @@
 {
-  "content": "\n<p>Mitt namn är Per.</p>\n",
+  "title": "Per Rosén – CV/portfolio",
+  "content": "\n<p>Mitt namn är Per.</p>\n\n\n\n<p>Sed mollis, eros et ultrices tempus, mauris ipsum aliquam libero, non adipiscing dolor urna a orci. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Fusce neque. Pellentesque egestas, neque sit amet convallis pulvinar, justo nulla eleifend augue, ac auctor orci leo non est. Nam at tortor in tellus interdum sagittis.</p>\n",
   "featuredImage": {
     "node": {
       "sourceUrl": "http://portfolio.local/wp-content/uploads/Per_bw.jpg",

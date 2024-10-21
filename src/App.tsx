@@ -6,8 +6,8 @@ import { Profile } from "./components/Profile";
 function App() {
   return (
     <>
-      <main className="container bg-red-300 max-w-screen-xl mx-auto px-4">
-        <section className="bg-blue-300 text-white flex flex-col items-center justify-between p-4">
+      <main className="container border max-w-screen-xl mx-auto">
+        <section className="flex-row bg-blue-300 text-white flex items-center justify-between">
           <Profile></Profile>
         </section>
         <section className="max-w-2xl mx-auto">

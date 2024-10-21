@@ -1,4 +1,5 @@
 export interface Page {
+  title: string;
   content: string;
   featuredImage: {
     node: {
