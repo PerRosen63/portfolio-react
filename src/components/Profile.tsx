@@ -2,7 +2,6 @@ import parse from "html-react-parser";
 import page from "../data/page.json";
 import { Page } from "../types/Page";
 import { FC } from "react";
-import { Button } from "flowbite-react";
 
 export const Profile: FC = () => {
   const pageData: Page = page;
@@ -30,7 +29,13 @@ export const Profile: FC = () => {
       </div>
       <div>
         {image && (
-          <img src={imagePath} alt={image.altText} width="300" height="300" />
+          <img
+            className="w-80 h-auto"
+            src={imagePath}
+            alt={image.altText}
+            width={imageWidth}
+            height={imageHeight}
+          />
         )}
       </div>
     </>
