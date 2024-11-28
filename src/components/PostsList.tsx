@@ -8,7 +8,7 @@ import {
   AccordionTrigger,
 } from "./ui/accordion";
 
-const JobsList: React.FC = () => {
+const PostsList: React.FC = () => {
   const postsData: Post[] = posts;
 
   const filteredPosts = postsData
@@ -42,4 +42,4 @@ const JobsList: React.FC = () => {
   );
 };
 
-export default JobsList;
+export default PostsList;
