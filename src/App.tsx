@@ -1,6 +1,3 @@
-// import "./App.css";
-import { CasesList } from "./components/CasesList";
-// import JobsList from "./components/JobsList";
 import PostsList from "./components/PostsList";
 import { Profile } from "./components/Profile";
 
