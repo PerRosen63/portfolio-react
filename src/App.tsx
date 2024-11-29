@@ -1,6 +1,7 @@
 // import "./App.css";
 import { CasesList } from "./components/CasesList";
-import JobsList from "./components/JobsList";
+// import JobsList from "./components/JobsList";
+import PostsList from "./components/PostsList";
 import { Profile } from "./components/Profile";
 
 function App() {
@@ -11,11 +12,11 @@ function App() {
           <Profile></Profile>
         </section>
         <section className="max-w-2xl mx-auto">
-          <JobsList></JobsList>
+          <PostsList></PostsList>
         </section>
-        <section className="max-w-2xl mx-auto">
+        {/* <section className="max-w-2xl mx-auto">
           <CasesList></CasesList>
-        </section>
+        </section> */}
       </main>
     </>
   );

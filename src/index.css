@@ -4,22 +4,28 @@
 
 @layer base {
   h1 {
-    @apply text-4xl;
+    @apply text-clamp-h1 font-sans font-bold;
+    line-height: 1.2;
   }
   h2 {
-    @apply text-3xl;
+    @apply text-clamp-h2 font-sans font-bold;
+    line-height: 1.2;
   }
   h3 {
-    @apply text-2xl;
+    @apply text-clamp-h3 font-sans font-bold;
+    line-height: 1.2;
   }
   h4 {
-    @apply text-xl;
+    @apply text-clamp-h4 font-sans font-bold;
+    line-height: 1.2;
   }
   h5 {
-    @apply text-lg;
+    @apply text-clamp-h5 font-sans font-bold;
+    line-height: 1.2;
   }
   h6 {
-    @apply text-base;
+    @apply text-clamp-h6 font-sans font-bold;
+    line-height: 1.2;
   }
 }
 

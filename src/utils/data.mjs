@@ -39,6 +39,7 @@ export async function getPosts() {
             nodes {
               name
               slug
+              categoryId
             }
           }
         }

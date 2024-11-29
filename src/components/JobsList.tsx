@@ -7,6 +7,8 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "./ui/accordion";
+import { Tabs, TabsContent, TabsTrigger } from "./ui/tabs";
+import { TabsList } from "@radix-ui/react-tabs";
 
 const JobsList: React.FC = () => {
   const postsData: Post[] = posts;
@@ -25,20 +27,29 @@ const JobsList: React.FC = () => {
     });
 
   return (
-    <Accordion type="single" collapsible>
-      {filteredPosts.map((post, index) => (
-        <AccordionItem value={`item-${index}`} key={post.id}>
-          <AccordionTrigger>{post.title}</AccordionTrigger>
-          <AccordionContent>
-            <p>{post.occupation.occupation}</p>
-            <div>
-              {post.years.startYear} - {post.years.endYear}
-            </div>
-            <div>{parse(post.content || "")}</div>
-          </AccordionContent>
-        </AccordionItem>
-      ))}
-    </Accordion>
+    <Tabs>
+      <TabsList>
+        <TabsTrigger value="">Arbetslivserfarenhet</TabsTrigger>
+        <TabsTrigger value="">Uppdrag</TabsTrigger>
+        <TabsTrigger value="">Utbildning</TabsTrigger>
+      </TabsList>
+      <TabsContent value="">
+        <Accordion type="single" collapsible>
+          {filteredPosts.map((post, index) => (
+            <AccordionItem value={`item-${index}`} key={post.id}>
+              <AccordionTrigger>{post.title}</AccordionTrigger>
+              <AccordionContent>
+                <p>{post.occupation.occupation}</p>
+                <div>
+                  {post.years.startYear} - {post.years.endYear}
+                </div>
+                <div>{parse(post.content || "")}</div>
+              </AccordionContent>
+            </AccordionItem>
+          ))}
+        </Accordion>
+      </TabsContent>
+    </Tabs>
   );
 };
 

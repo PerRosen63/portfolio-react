@@ -46,7 +46,8 @@
       "nodes": [
         {
           "name": "Portfolio webb",
-          "slug": "portfolio-webb"
+          "slug": "portfolio-webb",
+          "categoryId": 4
         }
       ]
     }
@@ -98,7 +99,8 @@
       "nodes": [
         {
           "name": "Portfolio webb",
-          "slug": "portfolio-webb"
+          "slug": "portfolio-webb",
+          "categoryId": 4
         }
       ]
     }
@@ -150,7 +152,8 @@
       "nodes": [
         {
           "name": "Portfolio webb",
-          "slug": "portfolio-webb"
+          "slug": "portfolio-webb",
+          "categoryId": 4
         }
       ]
     }
@@ -202,7 +205,8 @@
       "nodes": [
         {
           "name": "Portfolio webb",
-          "slug": "portfolio-webb"
+          "slug": "portfolio-webb",
+          "categoryId": 4
         }
       ]
     }
@@ -254,7 +258,8 @@
       "nodes": [
         {
           "name": "Portfolio webb",
-          "slug": "portfolio-webb"
+          "slug": "portfolio-webb",
+          "categoryId": 4
         }
       ]
     }
@@ -306,7 +311,8 @@
       "nodes": [
         {
           "name": "Portfolio webb",
-          "slug": "portfolio-webb"
+          "slug": "portfolio-webb",
+          "categoryId": 4
         }
       ]
     }
@@ -358,7 +364,8 @@
       "nodes": [
         {
           "name": "Portfolio webb",
-          "slug": "portfolio-webb"
+          "slug": "portfolio-webb",
+          "categoryId": 4
         }
       ]
     }
@@ -410,7 +417,8 @@
       "nodes": [
         {
           "name": "Portfolio webb",
-          "slug": "portfolio-webb"
+          "slug": "portfolio-webb",
+          "categoryId": 4
         }
       ]
     }
@@ -433,7 +441,8 @@
       "nodes": [
         {
           "name": "Utbildning",
-          "slug": "utbildning"
+          "slug": "utbildning",
+          "categoryId": 3
         }
       ]
     }
@@ -456,7 +465,8 @@
       "nodes": [
         {
           "name": "Utbildning",
-          "slug": "utbildning"
+          "slug": "utbildning",
+          "categoryId": 3
         }
       ]
     }
@@ -479,7 +489,8 @@
       "nodes": [
         {
           "name": "Utbildning",
-          "slug": "utbildning"
+          "slug": "utbildning",
+          "categoryId": 3
         }
       ]
     }
@@ -502,7 +513,8 @@
       "nodes": [
         {
           "name": "Utbildning",
-          "slug": "utbildning"
+          "slug": "utbildning",
+          "categoryId": 3
         }
       ]
     }
@@ -525,7 +537,8 @@
       "nodes": [
         {
           "name": "Utbildning",
-          "slug": "utbildning"
+          "slug": "utbildning",
+          "categoryId": 3
         }
       ]
     }
@@ -548,7 +561,8 @@
       "nodes": [
         {
           "name": "Utbildning",
-          "slug": "utbildning"
+          "slug": "utbildning",
+          "categoryId": 3
         }
       ]
     }
@@ -560,7 +574,7 @@
     "slug": "medieinstitutet",
     "content": "\n<ul class=\"wp-block-list\">\n<li>JavaScript (Vanilla, TypeScript, Vue, React)</li>\n\n\n\n<li>API:er (Node, Express, SQL, MongoDB)</li>\n\n\n\n<li>Agila arbetssätt</li>\n\n\n\n<li>Arbetsmetodik/Git/GitHub</li>\n\n\n\n<li>Testning</li>\n\n\n\n<li>UX</li>\n\n\n\n<li>Grafiska verktyg (Figma etc)</li>\n</ul>\n",
     "years": {
-      "startYear": 2024,
+      "startYear": 2023,
       "endYear": 2025
     },
     "occupation": {
@@ -571,7 +585,8 @@
       "nodes": [
         {
           "name": "Utbildning",
-          "slug": "utbildning"
+          "slug": "utbildning",
+          "categoryId": 3
         }
       ]
     }
@@ -594,7 +609,8 @@
       "nodes": [
         {
           "name": "Arbetslivserfarenhet",
-          "slug": "arbetslivserfarenhet"
+          "slug": "arbetslivserfarenhet",
+          "categoryId": 2
         }
       ]
     }
@@ -617,7 +633,8 @@
       "nodes": [
         {
           "name": "Arbetslivserfarenhet",
-          "slug": "arbetslivserfarenhet"
+          "slug": "arbetslivserfarenhet",
+          "categoryId": 2
         }
       ]
     }
@@ -640,7 +657,8 @@
       "nodes": [
         {
           "name": "Arbetslivserfarenhet",
-          "slug": "arbetslivserfarenhet"
+          "slug": "arbetslivserfarenhet",
+          "categoryId": 2
         }
       ]
     }
@@ -663,7 +681,8 @@
       "nodes": [
         {
           "name": "Arbetslivserfarenhet",
-          "slug": "arbetslivserfarenhet"
+          "slug": "arbetslivserfarenhet",
+          "categoryId": 2
         }
       ]
     }
@@ -686,7 +705,8 @@
       "nodes": [
         {
           "name": "Arbetslivserfarenhet",
-          "slug": "arbetslivserfarenhet"
+          "slug": "arbetslivserfarenhet",
+          "categoryId": 2
         }
       ]
     }
@@ -709,7 +729,8 @@
       "nodes": [
         {
           "name": "Arbetslivserfarenhet",
-          "slug": "arbetslivserfarenhet"
+          "slug": "arbetslivserfarenhet",
+          "categoryId": 2
         }
       ]
     }
@@ -732,7 +753,8 @@
       "nodes": [
         {
           "name": "Arbetslivserfarenhet",
-          "slug": "arbetslivserfarenhet"
+          "slug": "arbetslivserfarenhet",
+          "categoryId": 2
         }
       ]
     }
@@ -755,7 +777,8 @@
       "nodes": [
         {
           "name": "Arbetslivserfarenhet",
-          "slug": "arbetslivserfarenhet"
+          "slug": "arbetslivserfarenhet",
+          "categoryId": 2
         }
       ]
     }
@@ -778,7 +801,8 @@
       "nodes": [
         {
           "name": "Arbetslivserfarenhet",
-          "slug": "arbetslivserfarenhet"
+          "slug": "arbetslivserfarenhet",
+          "categoryId": 2
         }
       ]
     }
@@ -790,7 +814,7 @@
     "slug": "visby-web",
     "content": "\n<p>Som anställd i företaget ansvarig för att bygga webbplatser i publiceringssystemet WordPress åt externa kunder.</p>\n",
     "years": {
-      "startYear": 2015,
+      "startYear": 2016,
       "endYear": 2019
     },
     "occupation": {
@@ -801,7 +825,8 @@
       "nodes": [
         {
           "name": "Arbetslivserfarenhet",
-          "slug": "arbetslivserfarenhet"
+          "slug": "arbetslivserfarenhet",
+          "categoryId": 2
         }
       ]
     }
