@@ -2,36 +2,38 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  font-family: "Roboto", sans-serif;
+}
+
 @layer base {
   h1 {
-    @apply text-clamp-h1 font-sans font-bold;
+    @apply text-clamp-h1 font-heading;
     line-height: 1.2;
   }
   h2 {
-    @apply text-clamp-h2 font-sans font-bold;
+    @apply text-clamp-h2 font-heading;
     line-height: 1.2;
   }
   h3 {
-    @apply text-clamp-h3 font-sans font-bold;
+    @apply text-clamp-h3 font-heading;
     line-height: 1.2;
   }
   h4 {
-    @apply text-clamp-h4 font-sans font-bold;
+    @apply text-clamp-h4 font-heading;
     line-height: 1.2;
   }
   h5 {
-    @apply text-clamp-h5 font-sans font-bold;
+    @apply text-clamp-h5 font-heading;
     line-height: 1.2;
   }
   h6 {
-    @apply text-clamp-h6 font-sans font-bold;
+    @apply text-clamp-h6 font-heading;
     line-height: 1.2;
   }
 }
 
-body {
-  font-family: "Roboto", sans-serif;
-}
+
 
 @layer base {
   :root {

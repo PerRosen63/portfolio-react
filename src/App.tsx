@@ -4,16 +4,13 @@ import { Profile } from "./components/Profile";
 function App() {
   return (
     <>
-      <main className="container border max-w-screen-xl mx-auto">
-        <section className="flex-row bg-blue-300 text-white flex items-center justify-between">
+      <main className="max-lg:container max-w-6xl md:px-4 mx-auto">
+        <section className="flex-col max-w-full mx-auto flex items-center justify-between gap-4 p-4">
           <Profile></Profile>
         </section>
-        <section className="max-w-2xl mx-auto">
+        <section className="max-w-full mx-auto p-4">
           <PostsList></PostsList>
         </section>
-        {/* <section className="max-w-2xl mx-auto">
-          <CasesList></CasesList>
-        </section> */}
       </main>
     </>
   );

@@ -9,6 +9,10 @@ export default {
     flowbite.content(),
   ],
   theme: {
+	fontFamily: {
+		'sans': ['Roboto', 'Helvetica', 'Arial', 'sans-serif'],
+		'heading': ['Staatliches', 'Helvetica', 'Arial', 'sans-serif'],
+	  },
   	extend: {
   		borderRadius: {
   			lg: 'var(--radius)',
@@ -73,11 +77,20 @@ export default {
   				to: {
   					height: '0'
   				}
-  			}
+  			},
+			"fade-in": {
+          "0%": {
+            opacity: "0",
+          },
+          "100%": {
+            opacity: "1",
+          }
+        },
   		},
   		animation: {
-  			'accordion-down': 'accordion-down 0.2s ease-out',
-  			'accordion-up': 'accordion-up 0.2s ease-out'
+  			'accordion-down': 'accordion-down 0.4s ease-out',
+  			'accordion-up': 'accordion-up 0.4s ease-out',
+			"fade-in": "fade-in 0.6s ease-in"
   		},
 		  fontSize: {
 			'clamp-h1': "clamp(3rem, 2.5385rem + 2.0513vw, 4rem)",

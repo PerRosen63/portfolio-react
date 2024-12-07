@@ -7,16 +7,21 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "./ui/accordion";
-import { Tabs, TabsList, TabsTrigger, TabsContent } from "@radix-ui/react-tabs";
+import { Tabs, TabsList, TabsTrigger, TabsContent } from "./ui/tabs";
 import { useState } from "react";
 
 const PostsList: React.FC = () => {
   const [selectedtab, setSelectedTab] = useState("2");
 
+  /* const [openAccordionItem, setOpenAccordionItem] = useState<string | null>(
+    null
+  ); */
+
   const postsData: Post[] = posts;
 
   const handleChange = (newValue: string) => {
     setSelectedTab(newValue);
+    //setOpenAccordionItem(null);
     console.log("click", selectedtab);
   };
 
@@ -34,10 +39,10 @@ const PostsList: React.FC = () => {
     });
 
   return (
-    <Tabs value={selectedtab}>
-      <TabsList className="grid w-full grid-cols-3">
+    <Tabs value={selectedtab} className="mb-40 border rounded-lg">
+      <TabsList className="max-md:flex-col lg:grid w-full grid-cols-3">
         <TabsTrigger onClick={() => handleChange("2")} value="2">
-          Arbetslivserfarenhet
+          <p>Arbetslivserfarenhet</p>
         </TabsTrigger>
         <TabsTrigger onClick={() => handleChange("4")} value="4">
           Uppdrag
@@ -47,7 +52,12 @@ const PostsList: React.FC = () => {
         </TabsTrigger>
       </TabsList>
       <TabsContent value={selectedtab}>
-        <Accordion type="single" collapsible>
+        <Accordion
+          type="single"
+          collapsible
+          key={selectedtab}
+          className="animate-fade-in"
+        >
           <ul>
             {filteredPosts.map((post, index) => {
               const mediumSize =
@@ -72,14 +82,26 @@ const PostsList: React.FC = () => {
               return (
                 <li>
                   <AccordionItem value={`item-${index}`} key={post.id}>
-                    <AccordionTrigger>{post.title}</AccordionTrigger>
-                    <AccordionContent>
+                    <AccordionTrigger
+                    /* onClick={() => setOpenAccordionItem(`item-${index}`)} */
+                    >
+                      {post.title}
+                    </AccordionTrigger>
+                    <AccordionContent
+                      className={` 
+                        ${
+                          post.categories.nodes[0].slug === "portfolio-webb"
+                            ? "text-center flex flex-col flex-wrap content-center"
+                            : ""
+                        }`}
+                    >
                       {post.featuredImage && (
                         <img
                           src={imagePath}
                           alt={post.featuredImage.node.altText}
                           width={imageWidth}
                           height={imageHeight}
+                          className="self-center"
                         />
                       )}
                       {post.occupation.occupation && (
@@ -88,11 +110,13 @@ const PostsList: React.FC = () => {
                         </p>
                       )}
                       {post.years.startYear && (
-                        <div>
+                        <div className="italic">
                           {post.years.startYear} - {post.years.endYear}
                         </div>
                       )}
-                      <div>{parse(post.content || "")}</div>
+                      <div className="mt-4 [&>*>a]:underline [&>*>a]:block">
+                        {parse(post.content || "")}
+                      </div>
                     </AccordionContent>
                   </AccordionItem>
                 </li>
