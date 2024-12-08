@@ -42,7 +42,7 @@ const PostsList: React.FC = () => {
     <Tabs value={selectedtab} className="mb-40 border rounded-lg">
       <TabsList className="max-md:flex-col lg:grid w-full grid-cols-3">
         <TabsTrigger onClick={() => handleChange("2")} value="2">
-          <p>Arbetslivserfarenhet</p>
+          Arbetslivserfarenhet
         </TabsTrigger>
         <TabsTrigger onClick={() => handleChange("4")} value="4">
           Uppdrag
