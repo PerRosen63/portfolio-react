@@ -20,7 +20,7 @@ function App() {
             ></ChevronDown>
           </button>
         </section>
-        <section id="tabs" className="max-w-full mx-auto p-4">
+        <section id="tabs" className="max-w-full mx-auto p-4 lg:min-h-svh">
           <PostsList></PostsList>
         </section>
       </main>

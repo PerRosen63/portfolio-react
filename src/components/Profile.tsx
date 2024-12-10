@@ -25,12 +25,12 @@ export const Profile: FC = () => {
 
   return (
     <>
-      <div className="flex flex-col max-lg:my-12 flex-grow flex-wrap content-center justify-center lg:h-[15vh]">
+      <div className="flex flex-col max-lg:my-12 flex-grow flex-wrap content-center justify-center lg:min-h-[15svh]">
         <h1 className="text-center">
           Per Rosén <span className="max-md:hidden">-</span> cv/portfolio
         </h1>
       </div>
-      <div className="md:grid gap-12 md:grid-cols-3 lg:h-[75vh]">
+      <div className="md:grid gap-12 md:grid-cols-3 lg:min-h-[75svh]">
         <div className="md:order-1 ">
           {image && (
             <img
