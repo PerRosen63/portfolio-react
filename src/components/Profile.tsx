@@ -30,7 +30,7 @@ export const Profile: FC = () => {
           Per Rosén <span className="max-md:hidden">-</span> cv/portfolio
         </h1>
       </div>
-      <div className="md:grid gap-12 md:grid-cols-3 lg:min-h-[75svh]">
+      <div className="md:grid gap-x-12 md:grid-cols-3 lg:min-h-[75svh]">
         <div className="md:order-1 ">
           {image && (
             <img
@@ -43,7 +43,7 @@ export const Profile: FC = () => {
           )}
         </div>
         <div className="max-md:mt-6 md:col-[1/3] md:row-span-3">
-          <p className="[&>h2]:mb-4 [&>h3]:text-base [&>h3]:font-semibold [&>h3]:uppercase [&>h3]:mt-2 [&>h3]:font-[Roboto]">
+          <p className="[&>h2]:mb-4 [&>h3]:text-base [&>h3]:font-semibold [&>h3]:uppercase [&>h3]:mt-2 [&>h3]:font-[Roboto] [&>p>a]:underline hover:[&>p>a]:text-muted-foreground">
             {parse(pageData.content)}{" "}
           </p>
           <div className="my-4">
@@ -58,7 +58,7 @@ export const Profile: FC = () => {
 
         <div className="md:order-2 bg-muted max-md:mt-4 p-4 rounded-lg border">
           <h5>Lite mer om mig:</h5>
-          <ul className="list-disc ml-5">
+          <ul className="list-disc ml-5 mt-2">
             <li>låtskrivare, sångare, gitarrist</li>
             <li>medlem i bandet The Dogmen och soloprojektet Präriepilen</li>
             <li>bor i Visby</li>
