@@ -15,7 +15,7 @@ function App() {
           <button className="max-lg:hidden my-0.5 hover:my-0">
             {" "}
             <ChevronDown
-              className="h-8 w-8 shrink-0 text-muted-foreground hover:text-foreground hover:h-9 hover:w-9"
+              className="h-10 w-10 shrink-0 animate-bounce text-muted-foreground hover:text-foreground hover:h-11 hover:w-11"
               onClick={onClick}
             ></ChevronDown>
           </button>
