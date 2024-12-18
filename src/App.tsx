@@ -12,13 +12,15 @@ function App() {
       <main className="max-lg:container max-w-6xl md:px-4 mx-auto scroll-smooth">
         <section className="flex-col max-w-full mx-auto flex items-center justify-between gap-4 p-4">
           <Profile></Profile>
-          <button className="max-lg:hidden my-0.5 hover:my-0">
-            {" "}
-            <ChevronDown
-              className="h-10 w-10 shrink-0 animate-bounce text-muted-foreground hover:text-foreground hover:h-11 hover:w-11"
-              onClick={onClick}
-            ></ChevronDown>
-          </button>
+          <div className="mt-[-1rem]">
+            <button className="max-lg:hidden my-0.5 hover:my-0">
+              {" "}
+              <ChevronDown
+                className="h-10 w-10 shrink-0 animate-bounce text-muted-foreground hover:text-foreground hover:h-11 hover:w-11"
+                onClick={onClick}
+              ></ChevronDown>
+            </button>
+          </div>
         </section>
         <section id="tabs" className="max-w-full mx-auto p-4 lg:min-h-svh">
           <PostsList></PostsList>
