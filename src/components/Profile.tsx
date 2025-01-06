@@ -106,6 +106,10 @@ export const Profile: FC = () => {
                 src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"
                 alt="wp-badge"
               />
+              <img
+                src="https://img.shields.io/badge/WCAG-%23015A69.svg?style=for-the-badge&logo=WCAG&logoColor=white"
+                alt="wcag-badge"
+              />
             </div>
             <div className="my-1 flex flex-wrap">
               <img
