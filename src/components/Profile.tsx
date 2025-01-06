@@ -85,6 +85,24 @@ export const Profile: FC = () => {
             </div>
             <div className="my-1 flex flex-wrap">
               <img
+                src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+                alt="html-badge"
+              />
+              <img
+                src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+                alt="css-badge"
+              />
+              <img
+                src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"
+                alt="sass-badge"
+              />
+              <img
+                src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"
+                alt="tw-badge"
+              />
+            </div>
+            <div className="my-1 flex flex-wrap">
+              <img
                 src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"
                 alt="wp-badge"
               />
