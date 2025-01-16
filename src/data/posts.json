@@ -1,10 +1,63 @@
 [
   {
+    "id": "cG9zdDoxNzM=",
+    "databaseId": 173,
+    "title": "Wisby Ost – webbshop",
+    "slug": "wisby-ost-webbshop",
+    "content": "\n<p><a href=\"https://wisbyost.se/\">https://wisbyost.se/</a> &#8211; I samarbete med Lojs kommunikation.</p>\n\n\n\n<p></p>\n",
+    "years": {
+      "startYear": null,
+      "endYear": null
+    },
+    "occupation": {
+      "occupation": null
+    },
+    "featuredImage": {
+      "node": {
+        "sourceUrl": "http://portfolio.local/wp-content/uploads/wisby_ost2.jpg",
+        "altText": "",
+        "mediaDetails": {
+          "width": 1068,
+          "height": 774,
+          "sizes": [
+            {
+              "name": "medium",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/wisby_ost2-600x435.jpg",
+              "width": "600",
+              "height": "435"
+            },
+            {
+              "name": "thumbnail",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/wisby_ost2-250x250.jpg",
+              "width": "250",
+              "height": "250"
+            },
+            {
+              "name": "medium_large",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/wisby_ost2-768x557.jpg",
+              "width": "768",
+              "height": "557"
+            }
+          ]
+        }
+      }
+    },
+    "categories": {
+      "nodes": [
+        {
+          "name": "Portfolio webb",
+          "slug": "portfolio-webb",
+          "categoryId": 4
+        }
+      ]
+    }
+  },
+  {
     "id": "cG9zdDoxMjc=",
     "databaseId": 127,
     "title": "Vindkraftskurs – Campus Gotland",
     "slug": "vindkraftskurs-campus-gotland",
-    "content": "\n<p><a href=\"https://vindkraftskurs.se/\" target=\"_blank\" rel=\"noreferrer noopener\">https://vindkraftskurs.se/</a> &#8211; i samarbete med Uppsala Universitet/Campus Gotland</p>\n",
+    "content": "\n<p><a href=\"https://vindkraftskurs.se/\" target=\"_blank\" rel=\"noreferrer noopener\">https://vindkraftskurs.se/</a> &#8211; LMS-plattform i samarbete med Uppsala Universitet/Campus Gotland</p>\n",
     "years": {
       "startYear": null,
       "endYear": null
@@ -161,7 +214,7 @@
   {
     "id": "cG9zdDoxMTg=",
     "databaseId": 118,
-    "title": "Lindas keramik",
+    "title": "Lindas keramik – webbshop",
     "slug": "lindas-keramik",
     "content": "\n<p><a href=\"https://lindaskeramik.se/\" target=\"_blank\" rel=\"noreferrer noopener\">https://lindaskeramik.se/</a> Webbshop i samarbete med Lojs Kommunikation</p>\n",
     "years": {

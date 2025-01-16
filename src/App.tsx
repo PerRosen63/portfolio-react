@@ -1,4 +1,4 @@
-import { ChevronDown } from "lucide-react";
+import { ArrowDownWideNarrow } from "lucide-react";
 import PostsList from "./components/PostsList";
 import { Profile } from "./components/Profile";
 
@@ -15,10 +15,10 @@ function App() {
           <div className="mt-[-2rem]">
             <button className="max-lg:hidden my-0.5 hover:my-0">
               {" "}
-              <ChevronDown
+              <ArrowDownWideNarrow
                 className="h-10 w-10 shrink-0 animate-bounce text-muted-foreground hover:text-foreground hover:h-11 hover:w-11"
                 onClick={onClick}
-              ></ChevronDown>
+              ></ArrowDownWideNarrow>
             </button>
           </div>
         </section>
