@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <main className="max-lg:container max-w-6xl md:px-4 mx-auto scroll-smooth">
+      <main className="max-lg:container max-w-7xl md:px-4 mx-auto scroll-smooth">
         <section className="flex-col max-w-full mx-auto flex items-center justify-between gap-4 p-4">
           <Profile></Profile>
           <div className="mt-[-2rem]">

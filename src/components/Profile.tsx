@@ -30,7 +30,7 @@ export const Profile: FC = () => {
           Per Rosén <span className="max-md:hidden">-</span> cv/portfolio
         </h1>
       </div>
-      <div className="md:grid gap-x-12 md:grid-cols-3 lg:min-h-[77svh]">
+      <div className="md:grid gap-x-12 md:grid-cols-3 lg:max-[1920px]:min-h-[77svh]">
         <div className="md:order-1 ">
           {image && (
             <img
