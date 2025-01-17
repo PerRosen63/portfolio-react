@@ -46,7 +46,7 @@ export const Profile: FC = () => {
           <p className="[&>h2]:mb-4 [&>h3]:text-base [&>h3]:font-semibold [&>h3]:uppercase [&>h3]:mt-2 [&>h3]:font-[Roboto] [&>p>a]:underline hover:[&>p>a]:text-muted-foreground">
             {parse(pageData.content)}{" "}
           </p>
-          <div className="max-md:my-8 mt-6">
+          <div className="max-md:my-8 mt-12 ">
             <div className="my-1 flex flex-wrap">
               <img
                 src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
