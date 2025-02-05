@@ -21,7 +21,7 @@
     "graphql": "^16.9.0",
     "graphql-request": "^7.1.0",
     "grommet-icons": "^4.12.1",
-    "html-react-parser": "^5.1.16",
+    "html-react-parser": "^5.2.2",
     "lucide-react": "^0.462.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -46,5 +46,18 @@
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
     "vite": "^5.4.1"
-  }
+  },
+  "description": "[Live site GitHub pages](https://perrosen63.github.io/portfolio-react/)",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PerRosen63/portfolio-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PerRosen63/portfolio-react/issues"
+  },
+  "homepage": "https://github.com/PerRosen63/portfolio-react#readme"
 }
