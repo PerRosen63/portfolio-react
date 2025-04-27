@@ -64,6 +64,10 @@ export const Profile: FC = () => {
                 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
                 alt="react-badge"
               />
+              <img
+                src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
+                alt="next-badge"
+              />
             </div>
             <div className="my-1 flex flex-wrap">
               <img
@@ -105,6 +109,10 @@ export const Profile: FC = () => {
               <img
                 src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"
                 alt="wp-badge"
+              />
+              <img
+                src="https://img.shields.io/badge/Storyblok-09B3AF?logo=storyblok&style=for-the-badge&logoColor=ffffff"
+                alt="storyblok-badge"
               />
               <img
                 src="https://img.shields.io/badge/WCAG-%23015A69.svg?style=for-the-badge&logo=WCAG&logoColor=white"
