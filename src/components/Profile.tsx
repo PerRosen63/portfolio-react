@@ -25,12 +25,12 @@ export const Profile: FC = () => {
 
   return (
     <>
-      <div className="flex flex-col max-lg:my-12 flex-grow flex-wrap content-center justify-center lg:max-[2000px]:min-h-[13svh]">
+      <div className="flex flex-col max-lg:my-12 flex-grow flex-wrap content-center justify-center lg:min-h-[13svh]">
         <h1 className="text-center">
           Per Rosén <span className="max-md:hidden">-</span> cv/portfolio
         </h1>
       </div>
-      <div className="md:grid gap-x-12 md:grid-cols-3 lg:max-[2000px]:min-h-[77svh]">
+      <div className="md:grid gap-x-12 md:grid-cols-3">
         <div className="md:order-1 ">
           {image && (
             <img
@@ -136,7 +136,7 @@ export const Profile: FC = () => {
           </div>
         </div>
 
-        <div className="md:order-2 bg-muted mt-4 px-4 pt-3 rounded-lg border">
+        <div className="md:order-2 bg-muted mt-4 px-4 pt-3 rounded-lg border h-fit">
           <h5>Lite mer om mig:</h5>
           <ul className="list-disc ml-5 mt-2">
             <li>låtskrivare, sångare, gitarrist</li>
