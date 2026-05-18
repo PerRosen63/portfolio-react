@@ -1,5 +1,70 @@
 [
   {
+    "id": "cG9zdDoxODc=",
+    "databaseId": 187,
+    "title": "Skydda – B2B e-handel",
+    "slug": "skydda-b2b-e-handel",
+    "content": "\n<p><a href=\"https://www.skydda.com\">https://www.skydda.com</a></p>\n\n\n\n<p>&#8211; uppdrag hos Lybe AB utvecklat i Adobe Commerce, Storyblok och next.js</p>\n\n\n\n<p></p>\n",
+    "years": {
+      "startYear": null,
+      "endYear": null
+    },
+    "occupation": {
+      "occupation": null
+    },
+    "featuredImage": {
+      "node": {
+        "sourceUrl": "http://portfolio.local/wp-content/uploads/skydda.jpg",
+        "altText": "",
+        "mediaDetails": {
+          "width": 1919,
+          "height": 920,
+          "sizes": [
+            {
+              "name": "medium",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/skydda-600x288.jpg",
+              "width": "600",
+              "height": "288"
+            },
+            {
+              "name": "large",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/skydda-1200x575.jpg",
+              "width": "1200",
+              "height": "575"
+            },
+            {
+              "name": "thumbnail",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/skydda-250x250.jpg",
+              "width": "250",
+              "height": "250"
+            },
+            {
+              "name": "medium_large",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/skydda-768x368.jpg",
+              "width": "768",
+              "height": "368"
+            },
+            {
+              "name": "1536x1536",
+              "sourceUrl": "http://portfolio.local/wp-content/uploads/skydda-1536x736.jpg",
+              "width": "1536",
+              "height": "736"
+            }
+          ]
+        }
+      }
+    },
+    "categories": {
+      "nodes": [
+        {
+          "name": "Portfolio webb",
+          "slug": "portfolio-webb",
+          "categoryId": 4
+        }
+      ]
+    }
+  },
+  {
     "id": "cG9zdDoxODE=",
     "databaseId": 181,
     "title": "Lybe  Sweden AB",
