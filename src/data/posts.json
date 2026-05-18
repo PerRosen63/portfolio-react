@@ -1,5 +1,29 @@
 [
   {
+    "id": "cG9zdDoxODE=",
+    "databaseId": 181,
+    "title": "Lybe  Sweden AB",
+    "slug": "lybe-sweden-ab",
+    "content": "\n<p>Utveckling av B2B E-commerceplattformar. Främst headless frontend i next.js. Backend i AdobeCommerce samt Storyblok. </p>\n",
+    "years": {
+      "startYear": 2025,
+      "endYear": 2026
+    },
+    "occupation": {
+      "occupation": "Webbutvecklare"
+    },
+    "featuredImage": null,
+    "categories": {
+      "nodes": [
+        {
+          "name": "Arbetslivserfarenhet",
+          "slug": "arbetslivserfarenhet",
+          "categoryId": 2
+        }
+      ]
+    }
+  },
+  {
     "id": "cG9zdDoxNzM=",
     "databaseId": 173,
     "title": "Wisby Ost – webbshop",
